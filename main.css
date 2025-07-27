@@ -30,3 +30,13 @@ li{
  padding-left: 103px;
 
 }
+h1{
+  font-size:60px;
+  margin-bottom: 15px;
+}
+button{
+  padding: 12px 30px;
+  background: #52647E;
+  color: white;
+  border-radius:10px;
+}
